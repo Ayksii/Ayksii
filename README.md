@@ -1,5 +1,5 @@
 <div align="center" style="background-color: #ffe4e6; padding: 20px; border-radius: 15px;">
-  <img src="[https://media.giphy.com/media/L0Ht6g5VxCt4oY9H6v/giphy.gif](https://media1.tenor.com/m/9X1bdbB1N4AAAAAC/kawaii-anime-girl.gif)" alt="kawaii anime" width="150" style="border-radius: 50%;">
+<img src="./assets/kawaii-anime.gif" alt="kawaii anime" width="150" style="border-radius: 50%;">
   
   <h1 style="font-family: 'Comic Sans MS', cursive; color: #ff69b4;">Welcome to Github Page! ✨</h1>
   
