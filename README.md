@@ -19,9 +19,9 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" style="border-radius: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayksii&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" style="border-radius: 10px;">
   <br>
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="border-radius: 10px;">
+  <img src="https://streak-stats.demolab.com?user=Ayksii&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="border-radius: 10px;">
 </div>
 
 ---
