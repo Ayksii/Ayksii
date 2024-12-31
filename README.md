@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center" style="background-color: #ffe4e6; padding: 20px; border-radius: 15px;">
+  <img src="https://media.giphy.com/media/L0Ht6g5VxCt4oY9H6v/giphy.gif" alt="kawaii anime" width="150" style="border-radius: 50%;">
+  
+  <h1 style="font-family: 'Comic Sans MS', cursive; color: #ff69b4;">Welcome to My World! ✨</h1>
+  
+  <p style="font-size: 18px; color: #ff1493; font-family: 'Arial', sans-serif;">
+    I'm a <b>Fullstack Developer</b> passionate about coding and creating delightful experiences. 🌸
+  </p>
 
-<!--
-**Ayksii/Ayksii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p style="font-size: 18px; color: #ff1493; font-family: 'Arial', sans-serif;">
+    Collaborating with:
+  </p>
+  <ul style="list-style: none; padding: 0;">
+    <li><b>🌟 Blight.cc</b></li>
+    <li><b>🌸 StrefaAnime.pl</b></li>
+  </ul>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" style="border-radius: 10px;">
+  <br>
+  <img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="border-radius: 10px;">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="sparkles" width="100">
+  <p style="font-family: 'Comic Sans MS', cursive; color: #ff69b4;">Thanks for stopping by! 💕</p>
+</div>
