@@ -1,5 +1,5 @@
 <div align="center" style="background-color: #ffe4e6; padding: 20px; border-radius: 15px;">
-  <img src="https://media1.tenor.com/m/9X1bdbB1N4AAAAAd/kawaii-anime-girl.gif" alt="kawaii anime" width="150" style="border-radius: 50%;">
+  <img src="https://media1.tenor.com/m/9X1bdbB1N4AAAAAd/kawaii-anime-girl.gif" alt="kawaii anime" width="300" style="border-radius: 50%;">
   
   <h1 style="font-family: 'Comic Sans MS', cursive; color: #ff69b4;">Welcome to Github Page! ✨</h1>
   
@@ -27,6 +27,6 @@
 ---
 
 <div align="center">
-  <img src="https://media.tenor.com/1l2EEiHNrj8AAAAd/alymew-alymew-upset.gif" alt="sparkles" width="100">
+  <img src="https://media.tenor.com/1l2EEiHNrj8AAAAd/alymew-alymew-upset.gif" alt="sparkles" width="200">
   <p style="font-family: 'Comic Sans MS', cursive; color: #ff69b4;">Thanks for stopping by! 💕</p>
 </div>
