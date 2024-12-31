@@ -16,12 +16,14 @@
   </ul>
 
   <h2 style="font-family: 'Comic Sans MS', cursive; color: #ff69b4;">🛠️ Technologies & Tools</h2>
-  <p>
+ <p>
     <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E" alt="JavaScript Badge">
     <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB" alt="React Badge">
     <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=339933" alt="Node.js Badge">
     <img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&color=E34F26" alt="HTML Badge">
     <img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&color=1572B6" alt="CSS Badge">
+    <img src="https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=c%2B%2B&color=00599C" alt="C++ Badge">
+    <img src="https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&color=239120" alt="C# Badge">
     <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=F05032" alt="Git Badge">
     <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&color=181717" alt="GitHub Badge">
   </p>
