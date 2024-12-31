@@ -1,7 +1,7 @@
 <div align="center" style="background-color: #ffe4e6; padding: 20px; border-radius: 15px;">
   <img src="https://media1.tenor.com/m/9X1bdbB1N4AAAAAd/kawaii-anime-girl.gif" alt="kawaii anime" width="500" style="border-radius: 50%;">
   
-  <h1 style="font-family: 'Comic Sans MS', cursive; color: #ff69b4;">Welcome to Github Page! ✨</h1>
+  <h1 style="font-family: 'Comic Sans MS', cursive; color: #ff69b4;">Welcome to my Github Page! ✨</h1>
   
   <p style="font-size: 18px; color: #ff1493; font-family: 'Arial', sans-serif;">
     I'm a <b>Fullstack Developer</b> passionate about coding and creating delightful experiences. 🌸
@@ -11,8 +11,8 @@
     Collaborating with:
   </p>
   <ul style="list-style: none; padding: 0;">
-    <b>🌟 Blight.cc</b>
-    <b>🌸 StrefaAnime.pl</b>
+    <a href="https://blight.cc" target="_blank" style="text-decoration: none; color: #ff69b4;"><b>🌟 Blight.cc</b></a>
+    <a href="https://strefaanime.pl" target="_blank" style="text-decoration: none; color: #ff69b4;"><b>🌸 StrefaAnime.pl</b></a>
   </ul>
 </div>
 
