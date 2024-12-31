@@ -1,7 +1,7 @@
 <div align="center" style="background-color: #ffe4e6; padding: 20px; border-radius: 15px;">
-  <img src="https://media.giphy.com/media/L0Ht6g5VxCt4oY9H6v/giphy.gif" alt="kawaii anime" width="150" style="border-radius: 50%;">
+  <img src="[https://media.giphy.com/media/L0Ht6g5VxCt4oY9H6v/giphy.gif](https://media1.tenor.com/m/9X1bdbB1N4AAAAAC/kawaii-anime-girl.gif)" alt="kawaii anime" width="150" style="border-radius: 50%;">
   
-  <h1 style="font-family: 'Comic Sans MS', cursive; color: #ff69b4;">Welcome to My World! ✨</h1>
+  <h1 style="font-family: 'Comic Sans MS', cursive; color: #ff69b4;">Welcome to Github Page! ✨</h1>
   
   <p style="font-size: 18px; color: #ff1493; font-family: 'Arial', sans-serif;">
     I'm a <b>Fullstack Developer</b> passionate about coding and creating delightful experiences. 🌸
@@ -27,6 +27,6 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="sparkles" width="100">
+  <img src="[https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif](https://media1.tenor.com/m/1l2EEiHNrj8AAAAd/alymew-alymew-upset.gif)" alt="sparkles" width="100">
   <p style="font-family: 'Comic Sans MS', cursive; color: #ff69b4;">Thanks for stopping by! 💕</p>
 </div>
