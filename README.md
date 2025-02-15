@@ -12,7 +12,6 @@
   </p>
   <ul style="list-style: none; padding: 0;">
     <a href="https://blight.cc" target="_blank" style="text-decoration: none; color: #ff69b4;"><b>🌟 Blight.cc</b></a>
-    <a href="https://strefaanime.pl" target="_blank" style="text-decoration: none; color: #ff69b4;"><b>🌸 StrefaAnime.pl</b></a>
   </ul>
 
   <h2 style="font-family: 'Comic Sans MS', cursive; color: #ff69b4;">🛠️ Technologies & Tools</h2>
