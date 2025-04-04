@@ -33,14 +33,14 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayksii&show_icons=true&theme=default&bg_color=2e003e&title_color=ffffff&text_color=ffffff&hide_border=true&cache_seconds=0" alt="GitHub Stats" style="border-radius: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayksii&show_icons=true&bg_color=2e003e&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&cache_seconds=0" alt="GitHub Stats" style="border-radius: 10px;">
   <br>
-  <img src="https://streak-stats.demolab.com?user=Ayksii&theme=default&background=2e003e&border=2e003e&date_format=j%20M%5B%20Y%5D&ring=ffffff&fire=ffffff&cache_seconds=0" alt="GitHub Streak" style="border-radius: 10px;">
+  <img src="https://streak-stats.demolab.com?user=Ayksii&theme=default&background=2e003e&border=2e003e&date_format=j%20M%5B%20Y%5D&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&cache_seconds=0" alt="GitHub Streak" style="border-radius: 10px;">
 </div>
 
 <div align="center">
   <h2 style="font-family: 'Comic Sans MS', cursive; color: white;">📊 Language Breakdown</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayksii&layout=compact&theme=default&bg_color=2e003e&title_color=ffffff&text_color=ffffff&hide_border=true&count_private=true&cache_seconds=0" alt="Language Stats" style="border-radius: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayksii&layout=compact&bg_color=2e003e&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&count_private=true&cache_seconds=0" alt="Language Stats" style="border-radius: 10px;">
 </div>
 
 ---
