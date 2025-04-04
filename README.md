@@ -38,11 +38,9 @@
   <img src="https://streak-stats.demolab.com?user=Ayksii&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="border-radius: 10px;">
 </div>
 
-<!-- Nowa sekcja z językami -->
 <div align="center">
   <h2 style="font-family: 'Comic Sans MS', cursive; color: #ff69b4;">📊 Language Breakdown</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayksii&layout=compact&hide_border=true" alt="Language Stats" style="border-radius: 10px;">
-  <p style="font-size: 16px; font-family: 'Arial', sans-serif; color: #ff1493;">Procentowy udział poszczególnych języków, bazując na wszystkich projektach (w tym prywatnych).</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayksii&layout=compact&hide_border=true&count_private=true" alt="Language Stats" style="border-radius: 10px;">
 </div>
 
 ---
