@@ -40,8 +40,20 @@
 
 <div align="center">
   <h2 style="font-family: 'Comic Sans MS', cursive; color: white;">📊 Language Breakdown</h2>
-  <img src="https://chat.openai.com/_assets/14ce496d-0b3d-43ca-a92f-d2ce7c9aa6b4/A_2D_digital_pie_chart_in_the_image_displays_a_lan.png" alt="Fake Language Stats" style="border-radius: 10px; width: 400px;">
+  <div style="width: 80%; max-width: 500px; background-color: #444; border-radius: 10px; overflow: hidden; border: 1px solid #fff;">
+    <div style="width: 55%; background-color: #00599C; color: white; padding: 5px 0; float: left; text-align: center; font-family: monospace;">
+      C++ (55%)
+    </div>
+    <div style="width: 32%; background-color: #00ADD8; color: white; padding: 5px 0; float: left; text-align: center; font-family: monospace;">
+      Go (32%)
+    </div>
+    <div style="width: 13%; background-color: #FFD43B; color: black; padding: 5px 0; float: left; text-align: center; font-family: monospace;">
+      Python (13%)
+    </div>
+    <div style="clear: both;"></div>
+  </div>
 </div>
+
 
 
 
