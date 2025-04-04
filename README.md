@@ -40,8 +40,11 @@
 
 <div align="center">
   <h2 style="font-family: 'Comic Sans MS', cursive; color: white;">📊 Language Breakdown</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayksii&layout=compact&bg_color=2e003e&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&count_private=true&cache_seconds=0" alt="Language Stats" style="border-radius: 10px;">
+  <img src="https://fake-img.shields.io/badge/C++-55%25-blue?style=flat-square&color=00599C" alt="C++ Fake Stat" style="margin: 5px; border-radius: 8px;">
+  <img src="https://fake-img.shields.io/badge/Go-32%25-lightgrey?style=flat-square&color=00ADD8" alt="Go Fake Stat" style="margin: 5px; border-radius: 8px;">
+  <img src="https://fake-img.shields.io/badge/Python-13%25-yellow?style=flat-square&color=3776AB" alt="Python Fake Stat" style="margin: 5px; border-radius: 8px;">
 </div>
+
 
 ---
 
