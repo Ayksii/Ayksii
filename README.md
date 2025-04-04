@@ -38,14 +38,6 @@
   <img src="https://streak-stats.demolab.com?user=Ayksii&theme=default&background=2e003e&border=2e003e&date_format=j%20M%5B%20Y%5D&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&cache_seconds=0" alt="GitHub Streak" style="border-radius: 10px;">
 </div>
 
-<div align="center">
-  <h2 style="font-family: 'Comic Sans MS', cursive; color: white;">📊 Language Breakdown</h2>
-  <img src="https://fakeimg.pl/600x200/2e003e/ffffff/?text=C++%2055%25%20%7C%20Go%2032%25%20%7C%20Python%2013%25&font=lobster" alt="Fake Language Stats" style="border-radius: 10px;">
-</div>
-
-
-
-
 
 ---
 
