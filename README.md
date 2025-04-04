@@ -14,10 +14,10 @@
     <a href="https://blight.cc" target="_blank" style="text-decoration: none; color: #ff69b4;"><b>🌟 Blight</b></a>
     <a href="https://anicloud.pl" target="_blank" style="text-decoration: none; color: #ff69b4;"><b>💕 Kronos</b></a>
     <a href="https://anicloud.pl" target="_blank" style="text-decoration: none; color: #ff69b4;"><b>🔥 Wraith</b></a>
-    </ul>
+  </ul>
 
   <h2 style="font-family: 'Comic Sans MS', cursive; color: #ff69b4;">🛠️ Technologies & Tools</h2>
- <p>
+  <p>
     <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E" alt="JavaScript Badge">
     <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB" alt="React Badge">
     <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=339933" alt="Node.js Badge">
@@ -36,6 +36,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ayksii&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" style="border-radius: 10px;">
   <br>
   <img src="https://streak-stats.demolab.com?user=Ayksii&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="border-radius: 10px;">
+</div>
+
+<!-- Nowa sekcja z językami -->
+<div align="center">
+  <h2 style="font-family: 'Comic Sans MS', cursive; color: #ff69b4;">📊 Language Breakdown</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayksii&layout=compact&hide_border=true" alt="Language Stats" style="border-radius: 10px;">
+  <p style="font-size: 16px; font-family: 'Arial', sans-serif; color: #ff1493;">Procentowy udział poszczególnych języków, bazując na wszystkich projektach (w tym prywatnych).</p>
 </div>
 
 ---
