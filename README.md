@@ -40,19 +40,9 @@
 
 <div align="center">
   <h2 style="font-family: 'Comic Sans MS', cursive; color: white;">📊 Language Breakdown</h2>
-  <div style="width: 80%; max-width: 500px; background-color: #444; border-radius: 10px; overflow: hidden; border: 1px solid #fff;">
-    <div style="width: 55%; background-color: #00599C; color: white; padding: 5px 0; float: left; text-align: center; font-family: monospace;">
-      C++ (55%)
-    </div>
-    <div style="width: 32%; background-color: #00ADD8; color: white; padding: 5px 0; float: left; text-align: center; font-family: monospace;">
-      Go (32%)
-    </div>
-    <div style="width: 13%; background-color: #FFD43B; color: black; padding: 5px 0; float: left; text-align: center; font-family: monospace;">
-      Python (13%)
-    </div>
-    <div style="clear: both;"></div>
-  </div>
+  <img src="https://fakeimg.pl/600x200/2e003e/ffffff/?text=C++%2055%25%20%7C%20Go%2032%25%20%7C%20Python%2013%25&font=lobster" alt="Fake Language Stats" style="border-radius: 10px;">
 </div>
+
 
 
 
