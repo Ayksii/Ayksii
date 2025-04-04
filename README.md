@@ -40,10 +40,9 @@
 
 <div align="center">
   <h2 style="font-family: 'Comic Sans MS', cursive; color: white;">📊 Language Breakdown</h2>
-  <img src="https://fake-img.shields.io/badge/C++-55%25-blue?style=flat-square&color=00599C" alt="C++ Fake Stat" style="margin: 5px; border-radius: 8px;">
-  <img src="https://fake-img.shields.io/badge/Go-32%25-lightgrey?style=flat-square&color=00ADD8" alt="Go Fake Stat" style="margin: 5px; border-radius: 8px;">
-  <img src="https://fake-img.shields.io/badge/Python-13%25-yellow?style=flat-square&color=3776AB" alt="Python Fake Stat" style="margin: 5px; border-radius: 8px;">
+  <img src="https://chat.openai.com/_assets/14ce496d-0b3d-43ca-a92f-d2ce7c9aa6b4/A_2D_digital_pie_chart_in_the_image_displays_a_lan.png" alt="Fake Language Stats" style="border-radius: 10px; width: 400px;">
 </div>
+
 
 
 ---
