@@ -11,6 +11,7 @@
     Collaborating with:
   </p>
   <ul style="list-style: none; padding: 0;">
+    <a href="https://blight.cc" target="_blank" style="text-decoration: none; color: #ff69b4;"><b>🌸 Latencify</b></a><br>
     <a href="https://blight.cc" target="_blank" style="text-decoration: none; color: #ff69b4;"><b>🌟 Blight</b></a><br>
     <a href="https://anicloud.pl" target="_blank" style="text-decoration: none; color: #ff69b4;"><b>💕 Kronos</b></a><br>
     <a href="https://anicloud.pl" target="_blank" style="text-decoration: none; color: #ff69b4;"><b>🔥 Wraith</b></a>
